@@ -50,7 +50,7 @@ url_short_app/
 1.  **Clone the repository:**
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/Piyu-Pika/url_short_app
     ```
 
 2.  **Navigate to the project directory:**
